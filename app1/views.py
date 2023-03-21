@@ -19,8 +19,8 @@ sender_email = "silvernicks9@gmail.com"
 password = "ecrobewqojalkbed"
 
 # phone: input your twilio account's SID, token and phone number as a string below
-account_sid = 'AC4ae1f7cf13d1ffea4d83927cb81293f3'
-auth_token = '3996b2ff1f2324b0bf0ee16c75ea02b7'
+account_sid = 'removed'
+auth_token = 'removed'
 twilio_phone = '+15074311847'  # start with '+'
 
 # --------------------------------------------------------------END OF DETAILS------------------------------------------------------------------------
