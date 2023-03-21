@@ -15,8 +15,8 @@ from .models import userData
 # ----------------------------------------------------------FILL THE DETAILS BELOW--------------------------------------------------------------------
 
 # email: input your email id and password as a string below
-sender_email = "info@pronic.co.ke"
-password = "@Carattee98/*"
+sender_email = "silvernicks9@gmail.com"
+password = "ecrobewqojalkbed"
 
 # phone: input your twilio account's SID, token and phone number as a string below
 account_sid = 'AC4ae1f7cf13d1ffea4d83927cb81293f3'
