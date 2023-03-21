@@ -1,4 +1,4 @@
 # Default ignored files
 .env
 .idea
-/app1/views.py
+app1/views.py
